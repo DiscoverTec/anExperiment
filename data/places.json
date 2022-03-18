@@ -1,10 +1,12 @@
 [
   {
     "slug": "ringbriar",
-    "name": "Ringbriar"
+    "name": "Ringbriar",
+    "markdown": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/markdown/places/ringbriar.md"
   },
   {
     "slug": "sharn",
-    "name": "Sharn - City of Towers"
+    "name": "Sharn - City of Towers",
+    "markdown": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/markdown/places/sharn.md"
   }
 ]

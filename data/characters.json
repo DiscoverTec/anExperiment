@@ -4,47 +4,47 @@
     "name": "Dane",
     "race": "Dwarf",
     "class": "Cleric",
-    "image": "/images/characters/dane.png",
-    "markdown": "/markdown/characters/dane.md"
+    "image": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/characters/dane.png",
+    "markdown": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/markdown/characters/dane.md"
   },
   {
     "slug": "gazlek",
     "name": "Gazlek",
     "race": "Goblin",
     "class": "Wizard",
-    "image": "/images/characters/gazlek.png",
-    "markdown": "/markdown/characters/gazlek.md"
+    "image": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/characters/gazlek.png",
+    "markdown": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/markdown/characters/gazlek.md"
   },
   {
     "slug": "hurgalor",
     "name": "Hurgalor Crujiente",
     "race": "Dwarf",
     "class": "Oath Paladin",
-    "image": "https://drive.google.com/uc?export=download&id=1boOVoV3lvHhyrS3t9pRRxSHhWRzwA8Oz",
-    "markdown": "https://drive.google.com/uc?export=download&id=1ZRONShyx77lJNmPROLyImoxc6LPoOEzG"
+    "image": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/characters/hurgalor.png",
+    "markdown": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/markdown/characters/hurgalor.md"
   },
   {
     "slug": "kotlin",
     "name": "Kotlin the Recursive",
     "race": "High Elf",
     "class": "Arcane Trickser Rogue",
-    "image": "/images/characters/kotlin.png",
-    "markdown": "/markdown/characters/kotlin.md"
+    "image": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/characters/kotlin.png",
+    "markdown": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/markdown/characters/kotlin.md"
   },
   {
     "slug": "lyria",
     "name": "Lyria",
     "race": "Half Elf",
     "class": "Bard of the College of Creation",
-    "image": "/images/characters/lyria.png",
-    "markdown": "/markdown/characters/lyria.md"
+    "image": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/characters/lyria.png",
+    "markdown": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/markdown/characters/lyria.md"
   },
   {
     "slug": "valystrix",
     "name": "Valystrix Vargosil d'Sivas",
     "race": "Gnome",
     "class": "Armorer Artificer",
-    "image": "/images/characters/valystrix.png",
-    "markdown": "/markdown/characters/valystrix.md"
+    "image": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/characters/valystrix.png",
+    "markdown": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/markdown/characters/valystrix.md"
   }
 ]
