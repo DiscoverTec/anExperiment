@@ -31,6 +31,7 @@ flowchart LR;
     breland((Crown of Breland)) --> |Senior Barrister| phineas(Phineas Rowley. Esq.);
     rowley((Rowley Enterprises)) --> |Patron| phineas;
     phineas --> |Lieutant| steele(Benedict Steele);
+    phineas --> |Brother| edgar(Edgar Rowley);
 ```
 
 ## Hurgalor Sharn Relations
