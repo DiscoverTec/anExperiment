@@ -17,6 +17,8 @@ flowchart LR;
     Ringbriar --> Temple>Sovereign Host Temple];
     Ringbriar --> |Necromancer| Kylden("#9760; Kylden Vastadd");
     Ringbriar --> |Baker| Berta("Berta #9829; Dane");
+    Kylden --> |1st Officer| hektor("Hektor the White")
+    Kylden --> |Homie| Talia("#9760; Talia")
     subgraph Val;
     University --> |Master Professor| Sid(Sid Bookmire);
     end;
