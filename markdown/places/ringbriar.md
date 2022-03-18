@@ -11,7 +11,7 @@ A Dhakaani ruin is often filled with researchers from Morgrave University. Other
 ```mermaid
 flowchart LR;
     Ringbriar((Ringbriar)) --> |Magistrate| Hans(Hans Heckler);
-    Ringbriar --> |Mayor| Grisham(Grisham ir'Cadal);
+    Ringbriar --> |Mayor| Grisham(Grisham Ir'Cadal);
     Ringbriar --> University>Morgrave University];
     Ringbriar --> Tavern>Firebreath Tavern];
     Ringbriar --> Temple>Sovereign Host Temple];
