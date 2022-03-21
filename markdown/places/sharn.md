@@ -83,5 +83,6 @@ flowchart LR;
     kotlin{Kolin} --> |Smitten| nestra(Nestra);
     kotlin --> |Shady Deals| elyria(Elyria and Branson);
     elyria --> |Hangout| tavern((Bulls Head Tavern));
+    nestra --> |Dated| demetry(Demetry)
     click kotlin "/characters/kotlin";
 ```
