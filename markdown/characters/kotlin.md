@@ -1,7 +1,11 @@
-# Background
+<div class="flex">
+  <div>
+    # Background
 
 _im working on it i promise_
-
+  </div>
+  <div>
+    
 ## Shopping list
 | Item | Cost | Reason |
 | --- | --- | --- |
@@ -22,3 +26,18 @@ _im working on it i promise_
 | Sack | 0.01 gp | brown sack for stuff |
 | Sealing Wax | 0.5 gp  | copy keys and seals and stuff |
 | Wet stone | ?? | cleaning stuff |
+  </div>
+</div>
+  
+## Kotlin Sharn Relations
+
+```mermaid
+flowchart LR;
+    kotlin{Kolin} --> |Smitten| nestra{Nestra};
+    kotlin --> |Shady Deals| elyria(Elyria and Branson);
+    elyria --> |Hangout| tavern((Bulls Head Tavern));
+    nestra --> |Dated| demetry(Demetry);
+    kotlin --> owlEyes((Owl Eyes));
+    owlEyes --> theves(Theves Guild);
+    click kotlin "/characters/kotlin";
+```
