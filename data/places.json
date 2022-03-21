@@ -8,5 +8,10 @@
     "slug": "sharn",
     "name": "Sharn - City of Towers",
     "markdown": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/markdown/places/sharn.md"
+  },
+  {
+    "slug": "z-place",
+    "name": "The place with a Z",
+    "markdown": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/markdown/places/z-place.md"
   }
 ]
