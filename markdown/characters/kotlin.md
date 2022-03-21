@@ -1,35 +1,24 @@
-# background
+# Background
 
 _im working on it i promise_
 
-but checkout that mermaid flowchart!
-
-## Associations
-
-```mermaid
-graph TD;
-    Kotlin-->Dane;
-    Kotlin-->Hugalor;
-    Dane-->Lyria;
-    Hugalor-->Lyria;
-```
-
-```mermaid
-erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    ORDER ||--|{ LINE-ITEM : contains
-    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-```
-
-```mermaid
-sequenceDiagram
-    autonumber;
-    Alice->>John: Hello John, how are you?;
-    loop Healthcheck;
-        John->>John: Fight against hypochondria;
-    end;
-    Note right of John: Rational thoughts!;
-    John-->>Alice: Great!;
-    John->>Bob: How about you?;
-    Bob-->>John: Jolly good!;
-```
+## Shopping list
+| Item | Cost | Reason |
+| --- | --- | --- |
+| Chalk | 0.01 gp  | All kinds of stuff |
+| 3 Pitons | 0.05 gp | Climbing stuff  |
+| Candles | 0.01 gp  | Molds and stuff  |
+| Scroll Case | 1 gp  | Molds and stuff  |
+| Block and Tackle | 1 gp | Lifting / Dragging stuff |
+| Flour | ?? | Detect and blowup stuff |
+| String | ?? | Tying stuff up |
+| Signal Whistle | 0.05 gp  | Alerting team (enemies) |
+| Caltrops | 0.05 gp | Spiky things on the ground |
+| Bell | 1 gp  | Sound stuff (with string) |
+| Sand | ?? | Sound stuff (with string) |
+| Healers Kit | 5 gp | heal people |
+| Mirror | 0.5 gp | see stuff |
+| Oil Flask | 0.1 gp | slippery stuff |
+| Sack | 0.01 gp | brown sack for stuff |
+| Sealing Wax | 0.5 gp  | copy keys and seals and stuff |
+| Wet stone | ?? | cleaning stuff |
