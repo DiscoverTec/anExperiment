@@ -1,10 +1,10 @@
-<div class="flex">
+<div class="flex space-x-8">
   <div>
     # Background
 
 _im working on it i promise_
   </div>
-  <div>
+  <div class="text-sm">
     
 ## Shopping list
 | Item | Cost | Reason |
