@@ -1,6 +1,6 @@
 <div class="flex space-x-8">
   <div>
-    # Background
+# Background
 
 _im working on it i promise_
   </div>
