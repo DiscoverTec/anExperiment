@@ -1,12 +1,9 @@
-<div class="flex space-x-8">
-  <div>
 # Background
 
 _im working on it i promise_
-  </div>
-  <div class="text-sm">
     
 ## Shopping list
+
 | Item | Cost | Reason |
 | --- | --- | --- |
 | Chalk | 0.01 gp  | All kinds of stuff |
@@ -26,8 +23,6 @@ _im working on it i promise_
 | Sack | 0.01 gp | brown sack for stuff |
 | Sealing Wax | 0.5 gp  | copy keys and seals and stuff |
 | Wet stone | ?? | cleaning stuff |
-  </div>
-</div>
   
 ## Kotlin Sharn Relations
 
