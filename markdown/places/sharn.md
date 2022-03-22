@@ -1,6 +1,6 @@
 # Sharn
 
-<img src="/images/places/sharn.jpg" style="width: 200px; height: 200px; float: left; margin: 0 2rem 1rem 0;" class="rounded-full"/>
+<img src="/images/places/sharn.jpg" style="width: 220px; height: 220px; float: left; margin: 0 2rem .5rem 0;"/>
 
 Sharn is the most populous city in all of Khorvaire, and arguably all of Eberron. The city literally towers atop a cliff above the mouth of the Dagger River in southern Breland. Sharn is known as the City of Towers, but has also been called many other names, including the City of Knives, the City of Lost Souls, the City of a Thousand Eyes, the Gateway to Xen'drik, and the Gateway to Perdition.
 
