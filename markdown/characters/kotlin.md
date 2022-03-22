@@ -33,7 +33,12 @@ flowchart LR;
     kotlin --> |Familiar| kix(Kix)
     elyria --> |Hangout| tavern((Bulls Head Tavern));
     nestra --> |Dated| demetry(Demetry);
+    nestra --> |Friends| chuck(Chuck D'Laurader);
     kotlin --> |Knows About| owlEyes((Owl Eyes));
     owlEyes --> |Front| theves(Theves Guild);
     click kotlin "/characters/kotlin";
 ```
+
+## Zilspare Relations
+
+- found a dagger that needs be investigated

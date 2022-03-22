@@ -31,5 +31,5 @@ flowchart LR;
     thomas --> wife(Worried Wife);
     victor --> |Sponsors| art((Art Dealership));
     chuck(Chuck D'Laurader) --> |pilot| airship((Airship));
-    kellgor(Kellgor d"Rdaute..a) --> |Dealer| art
+    kellgor(Kellgor d"Rdaute..a) --> |Dealer| art;
 ```
