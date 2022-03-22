@@ -13,10 +13,14 @@ flowchart LR;
     anastasia{Anastasia d'Lear} --> |Manager| leon(Leon Lecter);
     anastasia --> |Understudy| marie(Marie Schediful);
     anastasia --> |Lead Actress| crystal((Crystal Dynasty));
+    anastasia --> |Kidnapped| foundry((Haunted Foundry));
     anastasia --> |Boyfriend| avaron(Avaron Skylasky);
     anastasia --> |Noble Friend| shyla(Shyla Gilton);
     anastasia --> |Bearded Fan| zangeef(Zangeef);
     crystal --> |Producer| gary(Gary Sullivan);
+    foundry --> |Stashed By| demetry(Demetry);
+    demetry --> |Hired By| e(E);
+    e --> |From| moore(Moore);
     avaron --> |Provisioner| airship((Airship Store));
     shyla --> |Provisioner| airship;
 ```
@@ -29,57 +33,4 @@ flowchart LR;
     rowley((Rowley Enterprises)) --> |Patron| phineas;
     phineas --> |Lieutant| steele(Benedict Steele);
     phineas --> |Brother| edgar(Edgar Rowley);
-```
-
-## Hurgalor Sharn Relations
-
-```mermaid
-flowchart LR;
-    hug{Hualor Crujiente} --> |Enemy| tavon(Tavon Mizaton);
-    hug --> |Ally| sorg(Sorg Crujiente);
-    hug --> |Ally| torron(Torron Crujiente);
-    sorg --> |Twin Brother| torron(Torron Crujiente);
-    torron --> |Owner| restSharn((4 Restaurants in Sharn));
-    torron --> |Owner| restWroat((1 Restaurant in Wroat));
-    click hug "/characters/hurgalor"
-```
-
-## Valystrix Sharn Relations
-
-```mermaid
-flowchart LR;
-    val{valystrix} --> |Ally| portia(Portia d'Syvis);
-    portia --> |Quillmistress| bookery((Sharn Bookery));
-    click val "/characters/valystrix";
-```
-
-## Dane Sharn Relations
-
-```mermaid
-flowchart LR;
-    bertha(Bertha) --> |Hot for| dane{Dane};
-    matilda(Matilda) --> |Sister| bertha;
-    matilda --> |Tailor| needle((The Threaded Needle));
-```
-
-## Lyria Sharn Relations
-
-```mermaid
-flowchart LR;
-    lyria{Lyria} --> |Played Music| saxony(Saxony);
-    saxony --> |Hangout| tavern((Bulls Head Tavern));
-    lyria --> |Ally| mellar(Mellar Gristlehaus);
-    mellar --> |owner| sparksworks(Sparksworks Foundry and Ironworks);
-    click lyria "/characters/lyria";
-```
-
-## Kotlin Sharn Relations
-
-```mermaid
-flowchart LR;
-    kotlin{Kolin} --> |Smitten| nestra(Nestra);
-    kotlin --> |Shady Deals| elyria(Elyria and Branson);
-    elyria --> |Hangout| tavern((Bulls Head Tavern));
-    nestra --> |Dated| demetry(Demetry)
-    click kotlin "/characters/kotlin";
 ```

@@ -7,3 +7,16 @@ Hurgalor was the youngest of this generations Crujientes and was known for his t
 While in rehabilitation, Hurgalor found that the people did not give him the respect that he deserved (or so he though he deserved). He saw that the clerics of the church held the people's respect and needed that respect for himself as well. Hurgalor devoted himself to the clergy and was soon a well respected cleric within the town of Ringbriar. Soon people knew him more for his deeds than his name, and Hurgalor liked that.
 
 Due to his newfound position, Hurgalor now feels almost as entitled as he has before, but now for a different reason. He only does good deeds so that he can feel respected. He is back to his old ways, but at least now, he performs good deeds and upholds the law.
+
+## Sharn Relations
+
+```mermaid
+flowchart LR;
+    hug{Hualor Crujiente} --> |Enemy| tavon(Tavon Mizaton);
+    hug --> |Ally| sorg(Sorg Crujiente);
+    hug --> |Ally| torron(Torron Crujiente);
+    sorg --> |Twin Brother| torron(Torron Crujiente);
+    torron --> |Owner| restSharn((4 Restaurants in Sharn));
+    torron --> |Owner| restWroat((1 Restaurant in Wroat));
+    click hug "/characters/hurgalor"
+```
