@@ -23,19 +23,25 @@ The party started their new week in Sharn with Val studying in the appartment wh
 
 Meeting with Benedict, the party gets their first job in Sharn. Anastasia d'Lear has disappeared, just as the new production of "The Crystal Dynasty" has started in the Lyric Theatre.
 
-Leon Lector, her manager, has hired the investigators to locate her. The current story is that she has the avian flu and is resting, but that story will only hold for another 3 days. It is important that she not be thought of as 'lost'. The party goes to visit Leon. On the way, a riot has broken from a Warforged demonstration on one of the path bridges. When a member of House Cannith shows up , violence breaks out. The team manages to get away after a few take some hits from the guards trying to control the situation. Meeting with Leon, and his butler Neilson, they get some background information about Anastasia, her recent activity and answered as many questions as he was able.
+Leon Lector, her manager, has hired the investigators to locate her. The current story is that she has the avian flu and is resting, but that story will only hold for another 3 days. It is important that she not be thought of as 'lost'. The party goes to visit Leon.
+
+On the way, a riot has broken from a Warforged demonstration on one of the path bridges. When a member of House Cannith shows up , violence breaks out. The team manages to get away after a few take some hits from the guards trying to control the situation. Meeting with Leon, and his butler Neilson, they get some background information about Anastasia, her recent activity and answered as many questions as he was able.
 
 Dane went to the Cathedral of Light and spoke with Bishop John. She was last in services on Saturday and was with her boyfriend but they seemed in an argument. She used to go with her best friend Shyla, but has not been off with her for a while.
 
 ## Hurg and Lyria get the hook ups
 
-Lyria and Hurgalor break off to go to the Lyric theatre in hopes of getting tickets and meeting with the cast. Arriving at 1pm, the crew was setting up the theatre for the 7pm showing. Showing interest in Anastasia, the pair asked to see the producer Gary Sullivan. Gary was interested to see them and showed some worry about Anastasia's health, asking them to let him know once they see her. He offered a tour of the theatre. They were able to convince him for 6 tickets as well as VIP passes for the after party, when the cast would all be there. They also managed to unlock the back door of the theatre without anyone noticing.
+Lyria and Hurgalor break off to go to the Lyric theatre in hopes of getting tickets and meeting with the cast. Arriving at 1pm, the crew was setting up the theatre for the 7pm showing. Showing interest in Anastasia, the pair asked to see the producer Gary Sullivan.
+
+Gary was interested to see them and showed some worry about Anastasia's health, asking them to let him know once they see her. He offered a tour of the theatre. They were able to convince him for 6 tickets as well as VIP passes for the after party, when the cast would all be there. They also managed to unlock the back door of the theatre without anyone noticing.
 
 ## Kotlin gets hansy with some stones
 
 <img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/other/runestones.png" style="width: 300px; float: left; margin: .5rem 1.5rem .5rem 0"/>
 
-Gaz, Val and Kotlin break off to go to her housing in Azure on the Skyway. Without much notice of the guards, the trio arrive to the appartment. Once there, everything is quiet. The bedroom has been tossed as someone was looking for something. A chair in the lounge area had been toppled with a bottle of wine shattered on the floor. Investigating the room, they found several items to be magical, bricks that started the fireplaces, the rug by the door and a set of 15 stones beneath the bed. In the study, they found a search had been done but not much damage. Kotlin investigated the stones under the bed that seemed to have a sequence. Entering the wrong sequence, he was teleported to the 'Thiefs Pit' in the prison of Sharn. Locked up, he waited with a murderous halfling until Gaz and Val followed. Within the hour, they were brought into a questioning room, where they were met by Phineas Rowley, their patron. Clearing them, he was able to get them out of the jam and taken to meet the others at the play.
+Gaz, Val and Kotlin break off to go to her housing in Azure on the Skyway. Without much notice of the guards, the trio arrive to the appartment. Once there, everything is quiet. The bedroom has been tossed as someone was looking for something. A chair in the lounge area had been toppled with a bottle of wine shattered on the floor. Investigating the room, they found several items to be magical, bricks that started the fireplaces, the rug by the door and a set of 15 stones beneath the bed. In the study, they found a search had been done but not much damage.
+
+Kotlin investigated the stones under the bed that seemed to have a sequence. Entering the wrong sequence, he was teleported to the 'Thiefs Pit' in the prison of Sharn. Locked up, he waited with a murderous halfling until Gaz and Val followed. Within the hour, they were brought into a questioning room, where they were met by Phineas Rowley, their patron. Clearing them, he was able to get them out of the jam and taken to meet the others at the play.
 
 ## The Afterparty
 
@@ -53,7 +59,9 @@ The group travels to the Green Dragon cab company in the lower level. While ther
 
 In the Sandy Caldron tavern across the street from a Warforge steel foundry, they find some who saw the group rush by. They are lead to a market. People in the market mention that the Boromor clan often works close by.
 
-Once in the market, the party picked up information that Anastasia had been lead on by a group of a half orc, a halfling and two humans, all cloaked. In trying to obtain information, the group starts grabbing people for interrogation. A halfling is grabbed and turns out to be a member of the Boromor clan. Hurgalor is quickly surrounded as the halfling is given the shake down and pressed into the muck. Battle ensues as poison daggers are pulled. Dane holds them off as Hurg is poisoned into a restless slumber. Lyria makes music to distract as Kotlin leads them away to listen to the music instead. Val and Kotlin interigated another of the halflings, getting more information by 'smoozing' one of the leaders. They found that they had been hired simply to deliver Anastasia to the Hugan Foundry, an old abandoned metalworks that some claim is haunted.
+Once in the market, the party picked up information that Anastasia had been lead on by a group of a half orc, a halfling and two humans, all cloaked. In trying to obtain information, the group starts grabbing people for interrogation. A halfling is grabbed and turns out to be a member of the Boromor clan.
+
+Hurgalor is quickly surrounded as the halfling is given the shake down and pressed into the muck. Battle ensues as poison daggers are pulled. Dane holds them off as Hurg is poisoned into a restless slumber. Lyria makes music to distract as Kotlin leads them away to listen to the music instead. Val and Kotlin interigated another of the halflings, getting more information by 'smoozing' one of the leaders. They found that they had been hired simply to deliver Anastasia to the Hugan Foundry, an old abandoned metalworks that some claim is haunted.
 
 ## Into the Haunted Foundry
 
