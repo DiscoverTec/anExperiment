@@ -4,7 +4,7 @@ The group, all having been drawn in through various travels and endeavors, found
 
 ## First Kills and Tracking a Necromancer
 
-<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/places/ringbriar.png" style="width: 220; float: left; margin: 0 2rem 2rem 0">
+<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/places/ringbriar.png" style="width: 220px; float: left; margin: 0 2rem 2rem 0"/>
 
 On investigating, the party finds that a strange figure is raising skeletons and zombies in town. After fighting off several skeletons, they find more packed and stored in a barn near town. Following a path to the woods, they decide to get more information. Going back to the University delegation, they find that one of the students has been acting odd and has disappeared. The student, Keldan Frasier, has been spending a good amount of time studying a certain part of the ruins. A linguist wizard with the University delegation joins the party to assist as they track Keldan's movements. This takes them out towards the woods once more.
 
@@ -18,7 +18,7 @@ This does not hold them for long as they press ahead. Out of frustration, the ro
 
 ## KIX and the Showdown with Keldan
 
-<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/characters/kix.png" style="width: 220; float: right; margin: 0 0 2rem 2rem">
+<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/characters/kix.png" style="width: 220px; float: right; margin: 0 0 2rem 2rem"/>
 
 Passing the mural, it is clear that the Dakhaani once worked with the great blue dragon Aznerax . In the mural, it depicts that at one time, he was an ally until he fell to the enemy. Through arcane resources, it was found how to bring him back, though he was twisted and darkened, as a dracolich. With much effort, he was layed low once again and entombed. It is figured out that this is what ancient weapon the necromancer is trying to bring back. Searching forward, the gnome comes across the Necromancer's familiar, Kix. Trying to sneak forward, the clink of metal alerted Kix who informed his master. Chanting began down below as the ceremony starts. Kix attempts to flee but is detained by the quick acting Kotlin. As the party gathers around the stairs down, the Necromancer redirects a fireball through his familiar, blasting the party.
 
@@ -28,7 +28,7 @@ The party started to venture out of the dungeon with charmed Necromancer in tow.
 
 ## Dragon's Horde and Off to Sharn
 
-<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/other/dragonHoard.png" style="width: 220; float: left; margin: 0 2rem 2rem 0">
+<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/other/dragonHoard.png" style="width: 220px; float: left; margin: 0 2rem 2rem 0"/>
 
 With information that the University would be sending an expedition down to the crypt themselves, the party was warned by Edgar that if they wanted to try to access the dragon's horde, they must make haste. Arriving back in the ritual room, Kotlin finds a large gear in a chest. Lifting it triggered a cloudkill, almost brining down the gnome. Giving it time to clear, the gear is used on the door.
 
