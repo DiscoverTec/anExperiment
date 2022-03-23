@@ -39,9 +39,13 @@ Gary was interested to see them and showed some worry about Anastasia's health, 
 
 <img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/other/runestones.png" style="width: 300px; float: left; margin: .5rem 1.5rem .5rem 0"/>
 
-Gaz, Val and Kotlin break off to go to her housing in Azure on the Skyway. Without much notice of the guards, the trio arrive to the appartment. Once there, everything is quiet. The bedroom has been tossed as someone was looking for something. A chair in the lounge area had been toppled with a bottle of wine shattered on the floor. Investigating the room, they found several items to be magical, bricks that started the fireplaces, the rug by the door and a set of 15 stones beneath the bed. In the study, they found a search had been done but not much damage.
+Gaz, Val and Kotlin break off to go to her housing in Azure on the Skyway. Without much notice of the guards, the trio arrive to the appartment. Once there, everything is quiet. The bedroom has been tossed as someone was looking for something. A chair in the lounge area had been toppled with a bottle of wine shattered on the floor.
 
-Kotlin investigated the stones under the bed that seemed to have a sequence. Entering the wrong sequence, he was teleported to the 'Thiefs Pit' in the prison of Sharn. Locked up, he waited with a murderous halfling until Gaz and Val followed. Within the hour, they were brought into a questioning room, where they were met by Phineas Rowley, their patron. Clearing them, he was able to get them out of the jam and taken to meet the others at the play.
+Investigating the room, they found several items to be magical, bricks that started the fireplaces, the rug by the door and a set of 15 stones beneath the bed. In the study, they found a search had been done but not much damage.
+
+Kotlin investigated the stones under the bed that seemed to have a sequence. Entering the wrong sequence, he was teleported to the 'Thiefs Pit' in the prison of Sharn. Locked up, he waited with a murderous halfling until Gaz and Val followed.
+
+Within the hour, they were brought into a questioning room, where they were met by Phineas Rowley, their patron. Clearing them, he was able to get them out of the jam and taken to meet the others at the play.
 
 ## The Afterparty
 
