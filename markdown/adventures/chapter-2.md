@@ -51,46 +51,21 @@ Once in the market, the party picked up information that Anastasia had been lead
 
 ## Into the Haunted Foundry
 
-The team, managing to disarm the uproar at the market, head to the haunted foundry.
-Once there, they break in and start searching around.
-Val's homunculus finds a 'walking cow', which intrigues the party that they all wish to go see it.
-Rounding the corner, they come face to face with two minitours. Battle ensues and after a tough pounding, the party is victorious.
+The team, managing to disarm the uproar at the market, head to the haunted foundry. Once there, they break in and start searching around. Val's homunculus finds a 'walking cow', which intrigues the party that they all wish to go see it. Rounding the corner, they come face to face with two minitours. Battle ensues and after a tough pounding, the party is victorious.
 
 ## Secret of the Ooze
 
-Kotlin sends Kix to check out more of the haunted foundry.
-The team further explores what the minitours could have been hiding.
-Hurgalor finds a mangled dark elf corpse while Lyria discovers several letters from "Demetry" addressed to the mysterious figure "E".
-Dane and team begin peaking into doors noticing a moving object within one of the rooms.
-Hurgalor bursts in a fury of exploration discovering a slimy mess of an attacking Ooze creature!
+Kotlin sends Kix to check out more of the haunted foundry. The team further explores what the minitours could have been hiding. Hurgalor finds a mangled dark elf corpse while Lyria discovers several letters from "Demetry" addressed to the mysterious figure "E". Dane and team begin peaking into doors noticing a moving object within one of the rooms. Hurgalor bursts in a fury of exploration discovering a slimy mess of an attacking Ooze creature!
 
-Lyria casts levatate to get a closer look and the team begins battle.  
-Kotlin stealthfully begins opening chests discovering Anastasias cape!
-The team quickly tries to lock the Ooze in its room taking quite a bit of acid damage they make it out.  
-Hurgalor however was distracted by an open pipe and begins opening the valve work above.  
-Almost on que, the Ooze slimes it way out of the locked room and the battle continues!
-Kotlin and Dane land sound blows, but quickly notice any many attacks cause the Ooze to split into two a few more attacks and the Ooze was dispatched.
+Lyria casts levatate to get a closer look and the team begins battle. Kotlin stealthfully begins opening chests discovering Anastasias cape! The team quickly tries to lock the Ooze in its room taking quite a bit of acid damage they make it out. Hurgalor however was distracted by an open pipe and begins opening the valve work above. Almost on que, the Ooze slimes it way out of the locked room and the battle continues! Kotlin and Dane land sound blows, but quickly notice any many attacks cause the Ooze to split into two a few more attacks and the Ooze was dispatched.
 
 ## Tricking a Tiefling
 
-Lyria casts invisibility on Kix to examine the foundry to avoid being detected by any other foes nearby.  
-Kix discovers a large room with even more minitours and a Tiefling calling the shots.  
-After some successful eavesdropping the team learns Demetry the Tiefling has plans on blowing up the Haunted Foundry and leaving with Anastasia!  
-The group quickly plans to search for Anastasia knowing she must be somewhere int the Foundry.  
-Lyria casts invisibility on herself to monitor Demetry's movements as he and two of the four minitours leave to the north.
-Kotlin disguises himself as Demetry to distract the other two minitours instructing them to run as fast as they can to a nearly room with food.
+Lyria casts invisibility on Kix to examine the foundry to avoid being detected by any other foes nearby. Kix discovers a large room with even more minitours and a Tiefling calling the shots. After some successful eavesdropping the team learns Demetry the Tiefling has plans on blowing up the Haunted Foundry and leaving with Anastasia! The group quickly plans to search for Anastasia knowing she must be somewhere int the Foundry. Lyria casts invisibility on herself to monitor Demetry's movements as he and two of the four minitours leave to the north. Kotlin disguises himself as Demetry to distract the other two minitours instructing them to run as fast as they can to a nearly room with food.
 
-Suddenly Lyria messages that Demetry is returning near the group!  
-As they scramble, Hurgalor is spotted by Demetry and a standoff beings!  
-Kotlin, in a failed attempt to stealth behind Hurgalor, trips over some barrels and he to is exposed!  
-Demetry questions the two, Hurgalor responds the two are a team of "Ghost Busters" sent to inspect the Haunted Foundry.  
-Not convinced, Demetry fires a round of lighting bolts at the group warning them to leave immediately.
+Suddenly Lyria messages that Demetry is returning near the group! As they scramble, Hurgalor is spotted by Demetry and a standoff beings! Kotlin, in a failed attempt to stealth behind Hurgalor, trips over some barrels and he to is exposed! Demetry questions the two, Hurgalor responds the two are a team of "Ghost Busters" sent to inspect the Haunted Foundry. Not convinced, Demetry fires a round of lighting bolts at the group warning them to leave immediately.
 
-Dane and Val regroup with Kotlin and Hurgalor with messaging with Lyria to continue to monitor what Demetry is up to.  
-Eventually Lyria explores the norther section of the Foundry to discover Anastasia bound in a room!  
-Quickly Lyria releases Anastasia leaving a note "I got to her first, LOL" and they escape out of the northern exist of the Haunted Foundry.  
-Kotlin, who had illegally been in contact with Lyria via his Message spell, informs the group they must move north to rejoin with Lyria.
-The group finds the strange note, but recognize it was written in Lyria's makeup, they assume Lyria must have left with Anastasia.
+Dane and Val regroup with Kotlin and Hurgalor with messaging with Lyria to continue to monitor what Demetry is up to. Eventually Lyria explores the norther section of the Foundry to discover Anastasia bound in a room! Quickly Lyria releases Anastasia leaving a note "I got to her first, LOL" and they escape out of the northern exist of the Haunted Foundry. Kotlin, who had illegally been in contact with Lyria via his Message spell, informs the group they must move north to rejoin with Lyria. The group finds the strange note, but recognize it was written in Lyria's makeup, they assume Lyria must have left with Anastasia.
 
 ## They stole her gift!!?
 
