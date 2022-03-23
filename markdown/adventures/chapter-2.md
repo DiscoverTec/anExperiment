@@ -19,6 +19,8 @@ The party started their new week in Sharn with Val studying in the appartment wh
 
 ## Learning about Anastasia
 
+<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/characters/anastasia.png" style="width: 300px; float: right; margin: .5rem 0 .5rem 1.5rem"/>
+
 Meeting with Benedict, the party gets their first job in Sharn. Anastasia d'Lear has disappeared, just as the new production of "The Crystal Dynasty" has started in the Lyric Theatre.
 
 Leon Lector, her manager, has hired the investigators to locate her. The current story is that she has the avian flu and is resting, but that story will only hold for another 3 days. It is important that she not be thought of as 'lost'. The party goes to visit Leon. On the way, a riot has broken from a Warforged demonstration on one of the path bridges. When a member of House Cannith shows up , violence breaks out. The team manages to get away after a few take some hits from the guards trying to control the situation. Meeting with Leon, and his butler Neilson, they get some background information about Anastasia, her recent activity and answered as many questions as he was able.
@@ -31,6 +33,8 @@ Lyria and Hurgalor break off to go to the Lyric theatre in hopes of getting tick
 
 ## Kotlin gets hansy with some stones
 
+<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/other/runestones.png" style="width: 300px; float: left; margin: .5rem 1.5rem .5rem 0"/>
+
 Gaz, Val and Kotlin break off to go to her housing in Azure on the Skyway. Without much notice of the guards, the trio arrive to the appartment. Once there, everything is quiet. The bedroom has been tossed as someone was looking for something. A chair in the lounge area had been toppled with a bottle of wine shattered on the floor. Investigating the room, they found several items to be magical, bricks that started the fireplaces, the rug by the door and a set of 15 stones beneath the bed. In the study, they found a search had been done but not much damage. Kotlin investigated the stones under the bed that seemed to have a sequence. Entering the wrong sequence, he was teleported to the 'Thiefs Pit' in the prison of Sharn. Locked up, he waited with a murderous halfling until Gaz and Val followed. Within the hour, they were brought into a questioning room, where they were met by Phineas Rowley, their patron. Clearing them, he was able to get them out of the jam and taken to meet the others at the play.
 
 ## The Afterparty
@@ -42,6 +46,8 @@ The afterparty had the entire group in attendence. Hurgalor casted zone of truth
 Talking with Zangeef, the large beared coactor, it seems he believed Anastasia's value to the production. Lyria found a letter and money, paying Marie to help Anastasia get on a skycab with a Green Dragon and red tongue on the side. They speak with another actor who recalls the number 1407 on the side. Kotlin stole gold from Marie's locker in the back. The group then intimate her to find out more information
 
 ## Hurg starts some shiz in the Cogs
+
+<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/other/borormarClan.png" style="width: 300px; float: right; margin: .5rem 0 .5rem 1.5rem"/>
 
 The group travels to the Green Dragon cab company in the lower level. While there, the dispatch has the cab pulled around to help Lyria get her purse that was left, or so they lied. Speaking with the cabbie, they found that he dropped Anastasia down in the Upper Cogs and takes the troupe to that street.
 
@@ -60,6 +66,8 @@ Kotlin sends Kix to check out more of the haunted foundry. The team further expl
 Lyria casts levatate to get a closer look and the team begins battle. Kotlin stealthfully begins opening chests discovering Anastasias cape! The team quickly tries to lock the Ooze in its room taking quite a bit of acid damage they make it out. Hurgalor however was distracted by an open pipe and begins opening the valve work above. Almost on que, the Ooze slimes it way out of the locked room and the battle continues! Kotlin and Dane land sound blows, but quickly notice any many attacks cause the Ooze to split into two a few more attacks and the Ooze was dispatched.
 
 ## Tricking a Tiefling
+
+<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/images/characters/demetry.png" style="width: 300px; float: left; margin: .5rem 1.5rem .5rem 0"/>
 
 Lyria casts invisibility on Kix to examine the foundry to avoid being detected by any other foes nearby. Kix discovers a large room with even more minitours and a Tiefling calling the shots. After some successful eavesdropping the team learns Demetry the Tiefling has plans on blowing up the Haunted Foundry and leaving with Anastasia! The group quickly plans to search for Anastasia knowing she must be somewhere int the Foundry. Lyria casts invisibility on herself to monitor Demetry's movements as he and two of the four minitours leave to the north. Kotlin disguises himself as Demetry to distract the other two minitours instructing them to run as fast as they can to a nearly room with food.
 
