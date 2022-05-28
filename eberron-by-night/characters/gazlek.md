@@ -1,0 +1,2 @@
+# Gazlek
+Goblin Wizard

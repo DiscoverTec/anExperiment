@@ -1,0 +1,20 @@
+[
+  {
+    "type": "campaign",
+    "slug": "eberron-by-night",
+    "name": "Eberron by Night",
+    "summary": "Adventures of an intrepid group of unlikely heros."
+  },
+  {
+    "type": "campaign",
+    "slug": "another-campaign",
+    "name": "Another Campaign",
+    "summary": "This is just a sample of another campaign."
+  },
+  {
+    "type": "campaign",
+    "slug": "dtndnd",
+    "name": "DTnDnD",
+    "summary": "The DTnDnD campaign for funding."
+  }
+]
