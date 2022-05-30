@@ -18,9 +18,6 @@ Height: 7' 2"
 
 ## Background
 
-The rougeist rogue ever.
-
-_im working on it i promise_
 
 ## Sharn Relations
 
