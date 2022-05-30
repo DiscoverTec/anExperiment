@@ -8,6 +8,8 @@ Class: Arcane Trickser Rogue
 
 Stats: <a href="https://www.dndbeyond.com/characters/65138916" target="_blank">D&D Beyond Character Sheet</a>
 
+---
+
 Age: 107
 
 Height: 7' 2"
