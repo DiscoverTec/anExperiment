@@ -2,11 +2,15 @@
 
 > :calendar: 1/25/2022
 
-Traveling south to Moonwatch by land, the party hired Captain Spinetack with 7 of his sailors to sail Hurgalor's ship over to Sharn. Upon reaching the city, the party made their way in, finding the marketplace for studded leather as well as several rounds of drinks at the Bull's Head Tavern. Kotlin, all juiced up with his new familiar, did some dropping of eaves on a shady pair, Elyria and Branson. Offered a job by the pair, no agreement was reached as the group finally moved along to the Inn.
+<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/places/sharn.jpg" class="float-left h-60 mr-6 mb-6"/>
+
+Traveling south to Moonwatch by land, the party hired Captain Spinetack with 7 of his sailors to sail Hurgalor's ship over to Sharn. 
+
+Upon reaching the city, the party made their way in, finding the marketplace for studded leather as well as several rounds of drinks at the Bull's Head Tavern. 
+
+Kotlin, all juiced up with his new familiar, did some dropping of eaves on a shady pair, Elyria and Branson. Offered a job by the pair, no agreement was reached as the group finally moved along to the Inn.
 
 ## Finally some downtime
-
-<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/places/sharn.jpg" style="width: 300px; float: left; margin: .5rem 2rem .5rem 0"/>
 
 The next 10 days were spent on some downtime.
 
