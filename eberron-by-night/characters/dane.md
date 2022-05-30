@@ -1,20 +1,15 @@
 # Dane Fireforge
+Race: Dwarf
 
-<img class="float-left h-96 mr-8 mb-8 rounded"   src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/characters/dane.png"/>
+Class: Cleric
 
-The tankiest silver flame member ever.
+## Achievements
 
 > :collision: Max Damage Output: **54** <span class="float-right">4/5/2022</span>
 
-:boy: Race: **Dwarf**
-
-:scroll: Class: **Cleric**
-
-:shield: Level: **5**
-
 ## Background
 
-todo
+<img class="float-left h-96 mr-8 mb-8 rounded"   src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/characters/dane.png"/>
 
 ## Sharn Relations
 
