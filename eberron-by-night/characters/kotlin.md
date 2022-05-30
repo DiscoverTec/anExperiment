@@ -18,6 +18,7 @@ Height: 7' 2"
 
 ## Background
 
+todo
 
 ## Sharn Relations
 
