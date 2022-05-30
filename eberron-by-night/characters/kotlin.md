@@ -6,7 +6,7 @@ Race: High Elf
 
 Class: Arcane Trickser Rogue
 
-Stats: [D&D Beyond Character Sheet](https://www.dndbeyond.com/characters/65138916)
+Stats: <a href="https://www.dndbeyond.com/characters/65138916" target="_blank">D&D Beyond Character Sheet</a>
 
 Age: 107
 
