@@ -1,5 +1,7 @@
 
 # Kotlin the Recursive
+<img class="float-left h-96 mr-8 mb-8 rounded"   src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/characters/kotlin.png"/>
+
 Race: High Elf
 
 Class: Arcane Trickser Rogue
@@ -11,8 +13,6 @@ Stats: [D&D Beyond Character Sheet](https://www.dndbeyond.com/characters/6513891
 > :collision: Max Damage Output: **71** <span class="float-right">4/5/2022</span>
 
 ## Background
-
-<img class="float-left h-96 mr-8 mb-8 rounded"   src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/characters/kotlin.png"/>
 
 The rougeist rogue ever.
 
