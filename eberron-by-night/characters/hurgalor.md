@@ -1,11 +1,11 @@
 # Hurgalor Crujiente
+<img class="float-left h-96 mr-8 mb-8 rounded"   src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/characters/hurgalor.png"/>
+
 Race: Dwarf
 
 Class: Oath Paladin
 
 ## Background
-
-<img class="float-left h-96 mr-8 mb-8 rounded"   src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/characters/hurgalor.png"/>
 
 The Crujiente family gained their wealth by perfecting the joy of chicken consumption. They perfected the flavor and crunch of biting into a piece of chicken. Not only did they perfect the taste of chicken, but they revolutionized the way people ate. Great, great, grand matriarch Norgette Crujiente was able to compress chicken into handheld forms and sold them from the very first Crujiente restaurant, "Norgette's". Eventually the compressed chicken had become synonymous with her name and were known as "norgettes". Her empire expanded at an astronomical rate and soon after, imposters started to appear. People had started to call them "nuggettes" in order to sneak past trademarks, but soon the Crujiente family was able to take the name, and all forms of compressed chicken known as nuggettes become associated with the Crujiente family.
 
