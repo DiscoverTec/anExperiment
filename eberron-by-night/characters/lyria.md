@@ -1,4 +1,12 @@
-# Background
+# Lyria Bardini
+<img class="float-left h-96 mr-8 mb-8 rounded"   src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/characters/lyria.png"/>
+
+Race: Half Elf 
+
+Class: Bard of the College of Creation
+
+
+## Background
 
 Lyria grew up surrounded by artists and creative types. Her elven mother was a famous singer in her home country. Her father was a painter and encouraged all his children to follow their passions. She is the youngest of 5 children: 3 older brothers and an older sister. When Lyria was 16 she left home to follow in her mother's footsteps, make a name for herself and seek adventure. Lyria joined a troupe, The Troubadours, whom she traveled with for many years performing on the road, inns, taverns, private events and even at small courts throughout the land. They formed a tight-knit family, always looking out for their big break.
 
