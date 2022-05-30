@@ -8,6 +8,10 @@ Class: Arcane Trickser Rogue
 
 Stats: [D&D Beyond Character Sheet](https://www.dndbeyond.com/characters/65138916)
 
+Age: 107
+
+Height: 7' 2"
+
 ## Achievements
 
 > :collision: Max Damage Output: **71** <span class="float-right">4/5/2022</span>
