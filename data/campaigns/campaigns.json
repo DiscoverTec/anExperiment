@@ -19,6 +19,7 @@
   },
   {
     "type": "campaign",
+    "branch": "ArnathJax/FirstCoast/main",
     "slug": "first-coast-by-night",
     "name": "First Coast By Night",
     "summary": "A White Wolf game in Jacksonville."
