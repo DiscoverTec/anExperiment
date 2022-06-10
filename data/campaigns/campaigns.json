@@ -16,5 +16,11 @@
     "slug": "dtndnd",
     "name": "DTnDnD",
     "summary": "The DTnDnD campaign for funding."
+  },
+  {
+    "type": "campaign",
+    "slug": "first-coast-by-night",
+    "name": "First Coast By Night",
+    "summary": "A White Wolf game in Jacksonville."
   }
 ]
