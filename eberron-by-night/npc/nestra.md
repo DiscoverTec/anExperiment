@@ -4,6 +4,4 @@
 
 ## Background
 
-Speciallizes in poisons
-
-Rather Attractive
+Poison!
