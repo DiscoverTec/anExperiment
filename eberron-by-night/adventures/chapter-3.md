@@ -158,3 +158,5 @@ Kotlin / Lyria -> convince helpful creature to return with them to battle scary 
 > :calendar: 5/24/2022
 
 Kotlin -> jumps back through the portal after getting gifts from tabby
+	
+Lyria -> jumps back through the portal with an amazing new lute known to stop trees in their tracks
