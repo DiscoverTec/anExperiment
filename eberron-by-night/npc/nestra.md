@@ -4,4 +4,6 @@
 
 ## Background
 
-Nestra is known as a master of poisons.
+Speciallizes in poisons
+
+Rather Attractive
