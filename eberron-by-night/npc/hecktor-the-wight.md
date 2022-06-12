@@ -5,4 +5,4 @@ Hecktor was [Kylden's](/eberron-by-night/npc/kylden-vastadd) understudy until Ky
 
 Although his training was sound, when it came to battle with the Ringbar Heros, he was very confused by his bosses decision to trust our heros. Hecktor was last seen in the dungeon all alone...  Some say he walks the halls keeping relations with the various cubes and spiders who still keep the dungeon alive.
 
-Interestingly Hecktor built a unique fondness for the Ringbar Heros.  His respect was gained after the heros tipped their cap towards him after ransacking the dragons hord. Perhaps there is more to Hecktor than we initiallty expected?
+Interestingly Hecktor built a unique fondness for the Ringbar Heros.  His respect was gained after the heros tipped their cap towards him after ransacking the dragons hord. Perhaps there is more to Hecktor than we initiallty expected, probably not :) 
