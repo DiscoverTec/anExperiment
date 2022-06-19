@@ -18,13 +18,13 @@ Benedict Steel informs the group he is working to investigate the origins of a s
 
 The team, gaining a small reputation as the "Ringbar Heros", took on a job from Benedict to find Thomas d'Morar at the beseeching of his wife Karen.
 
-With a few options to travel to Zilspar the group decided to take on a quick escort missing on an airship for one Kilgore Wentworth an art dealer and noble who needed some protection while trafficing art pieces to Victor Calhoon.
+With a few options to travel to Zilspar, the group decided to take on a quick escort missing on an airship for one Kilgore Wentworth an art dealer and noble who needed some protection while trafficing art pieces to Victor Calhoon.
 
-Val strongly opposes! The group, still learning about each other, find that Val is extremely terrified of heights. Benedict and the team pursaude Val to travel by air ensuring him nothing would happen and they could even provide some potions to help him sleep the whole duration. Val reluctantly agreed, knowing this is the quickest way to reach Zilspar and an opportunity to learn more about the missing noble.
+Val strongly opposes! The group, still learning about each other, discovered that Val is extremely terrified of heights. Benedict and the team pursaude Val to travel by air ensuring him nothing would happen and they could even provide some potions to help him sleep the whole duration. Val reluctantly agreed, knowing this is the quickest way to reach Zilspar and an opportunity to learn more about the missing noble.
 
 The team begins working with the airship captian Chuck d'Lauraru. Chuck gives the team a tour of the airship and instructions on how the flying machine works. Hurgalor takes a moment to explore the galley and familiarize himself with the cooking staff. He finds a common bond with the head chef who once worked at one of Hurgs finer restaruants.
 
-After a bit of time, the group learns from Chuck that Thomas has been missing for quite some time and was last seen on a hunting excibision with Victor. A good day is shared by all and the team heads off to grab some rest for the final duration of the trip. They secure Kilgore in his room and keep a watch for anything supicious. Suddly.. a huge comotion is heard on the top deck - trouble!
+After a bit of time, the group learns from Chuck that Thomas has been missing for some time and was last seen on a hunting excibision with Victor. A good day is shared by all and the team heads off to grab some rest for the final duration of the trip. They secure Kilgore in his room and keep a watch for anything supicious. Suddly.. a huge comotion is heard on the top deck - trouble!
 
 ## That Time We Almost Died to Harpies and Dane Threw His Spear?
 
@@ -56,7 +56,7 @@ The group meets Keg the bartender who is working with Flint a brewer. Keg is una
 
 The team them goes shopping for a new spear for Dane. Kotlin actually buys Dane a present after performing so well against the harpies. Kotlin in search for an improved weapon, asks the shop keeper, Winfry, about possibly trading some of this deadly purple worm potion stolen from Nestra. Winfry takes Kotlin into a back room and shows him a simple staff that instantly turns into a vicious Ribbonweave. After some haggeling, Kotlin accepts the trade and makes friends with the store merchant who reveals he is actaully a changeling!
 
-Meanwhile, Hurg notices an opportunity for some personal gain. He decides to steal a morning star from the store! Only Kotlin notices Hurgs sneaky plan, although complementing, Kotlin grows a bit concerned as Hurg is starting to show signs of evil??? After talking with all the towns people, the team agrees something strange is happening in the woods and they deicde to give Victor a visit.
+Meanwhile, Hurg notices an opportunity for some personal gain. He decides to steal a morning star from the store! Only Kotlin notices Hurgs sneaky plan, although complementing, Kotlin grows a bit concerned as Hurg is starting to show signs of evil? After talking with all the towns people, the team agrees something strange is happening in the woods and they deicde to give Victor a visit.
 
 ## An Art Show
 
@@ -74,7 +74,7 @@ Before heading out on the hunt the team decides to gather some weaponry. Interes
 
 <img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/other/dark-forest.jpg" style="width: 300px; float: right; margin: .5rem 0rem .5rem 2rem"/>
 
-The group meet up with Plavis, Keg, Tire, and other on the hunt. They see Thomas!!! But he has a big scar on his face. Kotlin, Hurg, and Dane and some rando put their hands into a log and get scratched. Val and Lyria trick the hunters with mage hands and sneaky spells and do not get scratched. The hunt begins! and everyone runs off into the woods
+The group meet up with Plavis, Keg, Tire, and other on the hunt. They see Thomas how now has a large scar on his face. Kotlin, Hurg, and Dane and some rando put their hands into a log and get scratched. Val and Lyria trick the hunters with mage hands and sneaky spells and do not get scratched. The hunt begins! and everyone runs off into the woods.
 
 Hurg starts shooting into the dark but actually takes down a boar! Plavis kills the boar but hears a crazy sounds and runs off again. The team enters an ongoing battle between wearwolfs and wearboars. Hurg continues to wildcard shoot at things hitting a wolf. Val, Kotlin, and Lyria group up and do their best to understand the situation lobbing flames and spells at the battle. Kotlin messages the creature to understand what is happening. Dane taunts and directly dues the boar who attacked poor rando guy. Dane is able to speaks with the wereboar. Lyria casts another hypnotic wave, the wolfs leverage their advantage killing a boar who turns into a now dead Blue the ranger!!
 
@@ -124,15 +124,11 @@ Suddenly another tree creature emerges from the water! A battle begins and Hurg'
 
 > :calendar: 5/5/2022
 
-Lyria -> stays hidden a bit, confronts the druid, levetates a blight
+Lyria sneaks around to the back of the large temple where she confronts the druid and casts levetate to lift a nearby blight off the gound.  The rest of the heros begin attacking the Alpha werewolf taking large amounts of damage but thankfully Hurg is able to cast heal.  
 
-Hurg -> attacks alpha, heals the team, protects billy
+Kotlin and Dane see an opening and decide to both attack the Alpha.  Kotlin uses a vile of the drow potion he recieved from Whinfery and coats his ribbon weave.  While the Alpha is distracted by Dane, Kotlin sneaks behind the Alpha striking him with a massive poisonus blow!  The Alpha now prone, is delt another critical blow by Dane and is exploded infront of our heros eyes!
 
-Dane -> attacks alpha critically, takes most of the damage from alpha, armor heats up from druid spell
-
-Kotlin -> attacks alpha critially, has a mishap with a dane and a shovel
-
-Val -> attacks alpha and blights
+Attention is next focused on the druid who casts a spell over Dane causing his armor to heat up rapidly!  Kotlin, in a strange series of events, decides it best to use a shovel to help Dane remove his armor.  However, with so much going on, Kotlin critically fails in any help attempt and instead injurs Dane.  Hurg watching from afar is now convinces Kotlin has been placed under some kind of spell by the Druid!
 
 ## OP Tree Monsters
 
