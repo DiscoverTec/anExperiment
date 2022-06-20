@@ -156,3 +156,33 @@ Kotlin / Lyria -> convince helpful creature to return with them to battle scary 
 Kotlin -> jumps back through the portal after getting gifts from tabby
 	
 Lyria -> jumps back through the portal with an amazing new lute known to stop trees in their tracks
+	
+Hurg continues casting 
+	
+Lyria holds the tree moster at bay 
+	
+The team fights off the blights
+	
+Kotlin touches the seed and becomes infected with a tree virus and starts attacking the group 
+	
+Hurg finishes his casting and monsters are destroyed with the forest healed
+	
+The team collects some goodies - 3 goats, elivn armor, other items
+	
+All is well in the forest again!
+
+> :calendar: 6/16/2022
+	
+Group talks with Mondue
+
+Learns Kotlin is possilbly infected, probably need to head to stormreach
+	
+Talks with Benidict Steel, Victor needs some more help
+	
+Team heals Thomas, convinces him his wife is preggers and needs to go home 
+	
+Hurg gets into a wierd situation with not one, not two, but three sleeping potions 
+	
+Kotlin picks up some sleeping potions thinking val may need it later for the air trip with victor
+	
+Team picks up some shopping items
