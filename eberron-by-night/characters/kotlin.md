@@ -40,6 +40,8 @@ This has opened doors for Kotlin in the theves guilds where is able to explore n
 
 Still, without knowledge of his family or real past, Kotlin clings to those like Dane who he befreinds and finds trustworthy.
 
+So much so that Dane knows some great secret of Kotlins
+
 
 ## Sharn Relations
 
