@@ -42,5 +42,6 @@ flowchart LR;
 ```mermaid
 flowchart LR;
     kotlin{Kolin} --> |Friends| whinfrey(Changeling Whinfrey \n Shop Keeper);
+		kotlin --> |Seeks Help| mondue(Mondue \n WereBear);
 ```
 
