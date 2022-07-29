@@ -1,22 +1,25 @@
 
 # Kotlin the Recursive
+
 <img class="float-left h-96 mr-8 mb-8 rounded"   src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/characters/kotlin.png"/>
+
+#### Biography
 
 Race: High Elf
 
 Class: Arcane Trickser Rogue
 
-Stats: <a href="https://www.dndbeyond.com/characters/65138916" target="_blank">D&D Beyond Character Sheet</a>
-
----
-
 Age: 107
 
 Height: 7' 2"
 
-## Achievements
+#### Achievements
 
-> :collision: Max Damage Output: **71** <span class="float-right">4/5/2022</span>
+Max Damage Output: **71** <span class="float-right">4/5/2022</span>
+
+#### Stats
+
+<a href="https://www.dndbeyond.com/characters/65138916" target="_blank">D&D Beyond Character Sheet</a>
 
 ## Background
 
