@@ -3,7 +3,7 @@
 
 Race: Dwarf
 
-Class: Oath Paladin
+Class: Cleric of Order
 
 ## Background
 
