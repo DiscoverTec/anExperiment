@@ -32,6 +32,14 @@
     "meta": { "level": "6" }
   },
   {
+    "type": "adventures",
+    "slug": "chapter-5",
+    "name": "Gaints Mysterious Artifact",
+    "summary": "The group continues to explore Stormreach in search of a mysterious artifact from a forgotten time.",
+    "url": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/adventures/chapter-5.md",
+    "meta": { "level": "6" }
+  },
+  {
     "type": "characters",
     "slug": "dane",
     "name": "Dane Fireforge",

@@ -1,3 +1,3 @@
 # Giants Mysterious Artifacts
-> :calendar: xx/xx/xx
 
+> :calendar: xx/xx/xx
