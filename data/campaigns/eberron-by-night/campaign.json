@@ -19,9 +19,17 @@
     "type": "adventures",
     "slug": "chapter-3",
     "name": "The Hunt for Thomas",
-    "summary": "Something something, airship",
+    "summary": "The team, gaining a small reputation as the 'Ringbar Heros', took on a job from Benedict to find Thomas d'Morar at the beseeching of his wife Karen. Little did they know this small town holds a world of mysterious beasts and strange curses!",
     "url": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/adventures/chapter-3.md",
-    "meta": { "level": "5 - ..." }
+    "meta": { "level": "5 - 6" }
+  },
+  {
+    "type": "adventures",
+    "slug": "chapter-4",
+    "name": "Healing in Stormreach",
+    "summary": "With Kotlin possibly infected, the group heads to the pirate city of Stormreach in search of adventure and healing.",
+    "url": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/adventures/chapter-4.md",
+    "meta": { "level": "6" }
   },
   {
     "type": "characters",
