@@ -1,8 +1,12 @@
 # Zilspar
 
-Zilspar is a town east of Sharn.  It is a trade stop on the way towards the nation of Zilargo.
+[<img class="w-96 float-left mr-4" src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/places/Zilspar_1.jpg" />](https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/places/Zilspar_1.jpg)
 
-<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/places/Zilspar_1.jpg" />
+[https://eberron.fandom.com/wiki/Zilspar](https://eberron.fandom.com/wiki/Zilspar)
+
+Zilspar is a town east of Sharn.  It is a trade stop on the way towards the nation of Zilargo. Additionally, Zilspar is a village in the south of Breland. 
+
+It lies east of Sharn on the Orien trade road to Trolanport, on the southern edge of the King's Forest and near the coast of the Thunder Sea. It has been represented by Thanoc, an elected lawmaker, for nearly twelve years.
 
 ## Notable NPCs
 
