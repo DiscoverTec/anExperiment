@@ -1,6 +1,6 @@
 # Zilspar
 
-[<img class="w-96 float-left mr-4" src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/places/Zilspar_1.jpg" />](https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/places/Zilspar_1.jpg)
+[<img class="w-96 float-left mr-4 mb-4" src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/places/Zilspar_1.jpg" />](https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/places/Zilspar_1.jpg)
 
 [https://eberron.fandom.com/wiki/Zilspar](https://eberron.fandom.com/wiki/Zilspar)
 
