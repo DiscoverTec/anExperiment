@@ -7,7 +7,20 @@ Stormreach is a small frontier city nestled on the eastern coast of the Skyfall 
 
 ```mermaid
 flowchart LR;
-		Phineas(Phineas) --> |Luetenant| name(Guy Name?); 
-    name --> verin(Verin \n Ranger);
-		name --> lady(Lady \n Teifling );
+		Phineas(Phineas) --> |Luetenant| shallazar(Shallazar \n Dark Elf); 
+    shallazar --> verin(Verin \n Ranger);
+		shallazar --> kedery(Kadry \n Teifling);
+```
+
+## Stormlords
+
+```mermaid
+flowchart LR;
+		lassite(Lord Lassite) -->  brewer((Brewer));
+    kirris(Kirris Sel Shadra) --> underworkd((Underworld));
+		joans(Joans Wylkes) --> harbor((Harbor));
+		aplou(Paulo Omaren) --> temple((Temple District));
+		lassite --> redSparrow(Red Sparrow \n Crashed Party);
+		aplou --> |Afterparty| kotlin(Kotlin);
+		aplou --> |Afterparty| dane(Dane);
 ```
