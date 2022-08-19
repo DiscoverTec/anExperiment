@@ -34,5 +34,4 @@ flowchart LR;
     subgraph Hugalor;
     Temple --> |Priest| Vutt(Friar Vutt);
     end;
-    click Sid "/characters/valystrix"
 ```
