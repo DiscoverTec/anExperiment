@@ -36,8 +36,16 @@ The heros learn they can make some extra money working with the stormlords to ge
 
 The heros make a deal with the stormloards and will help get the object back - possibly making a duplicate?
 	</div>
-<div class="w-96">
-images go here maybe		
+<div class="w-96 p-4">
+<a href="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/places/ringbriar.png" target="_blank">
+<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/places/ringbriar.png" class="mb-4"/>
+</a>
+	<a href="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/places/ringbriar.png" target="_blank">
+<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/places/ringbriar.png" class="mb-4"/>
+</a>
+	<a href="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/places/ringbriar.png" target="_blank">
+<img src="https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/images/places/ringbriar.png" class="mb-4"/>
+</a>
 </div>
 	</div>
 
