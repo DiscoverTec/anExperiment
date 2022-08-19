@@ -1,4 +1,6 @@
-# Giants Mysterious Artifacts
+<div class="flex">
+	<div class="w-full">
+	<h1> Giants Mysterious Artifacts</h1>
 
 > :calendar: 8/3/22
 
@@ -10,6 +12,10 @@ The dragon gives the team his name "Moss Lord"
 
 The dragon is happy with the gifts and allows them to continue on 
 
+
+
+<h2>Night on the Town</h2>
+	
 > :calendar: 8/9/22
 
 The heros finally arrive back in Stormreach where they investigate the shipment incomming from Victor
@@ -29,5 +35,10 @@ The heros head to an after party at a stormloads house and learn more info about
 The heros learn they can make some extra money working with the stormlords to get the object into stormreach
 
 The heros make a deal with the stormloards and will help get the object back - possibly making a duplicate?
+	</div>
+<div class="w-96">
+images go here maybe		
+</div>
+	</div>
 
 
