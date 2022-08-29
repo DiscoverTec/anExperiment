@@ -36,9 +36,13 @@ The heros make a deal with the stormloards and will help get the object back - p
 
 > :calendar: 8/18/22
 
-Verin dips out and is replaces by Lavinia and Credo
+Verin dips out and is replaced by Lavinia and Credo
 
-The team stumbles upon some nasty TRexs!
+The group sets out into the jungle but immediatly stumbles upon some nasty TRexs!
+
+A battle beings where Credo displays his amazing powers as an archer 
+
+Hurg collects about a pound of TRex meat!
 
 ## Deeper into the Jungle 
 
