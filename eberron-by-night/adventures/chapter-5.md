@@ -32,4 +32,57 @@ The heros learn they can make some extra money working with the stormlords to ge
 
 The heros make a deal with the stormloards and will help get the object back - possibly making a duplicate?
 
+## New Heros?
+
+> :calendar: 8/18/22
+
+Verin dips out and is replaces by Lavinia and Credo
+
+The team stumbles upon some nasty TRexs!
+
+## Deeper into the Jungle 
+
+> :calendar: 8/25/22
+
+The team is lead by Lavinia, they approach a cliff
+
+Gaz positions himself down to notice a small tribe of goblins
+
+The heros feather fall down to follow Gaz, the goblins open fire!
+
+Gaz casts a fog to protect the team 
+
+Lobo, Lavinia's wolf and Billy take a separate path to keep safe
+
+Lyria casts an amazing distraction of a TRex!
+
+The heros escape silently following the river
+
+The heros next approach two displacer beasts!!
+
+The battle is amazing, the team learns they are difficult to hit, but keep the beasts fur for later
+
+
+## The Death of Billy
+
+The heros decide to sleep, thinking Lobo will arrive with billy 
+
+Suddenly, in the distance a soft explosion is heard in the distance 
+
+Lobo is summoned back to Lavinia, only to report the goblins may have exploded the dynamite hidden in Billy's pouch
+
+Hurg, Lavinia, and Lyria head out to see what happened 
+
+Sadly, Billy is no more 
+
+Hurg is overcome with grief and begins a dive into his dark books
+
+They return and setup a watch 
+
+Hurg on watch hears a rustling in the distance, but with so many emotions he fires off and attacks the noise
+
+Two trolls appear!
+
+
+
 
