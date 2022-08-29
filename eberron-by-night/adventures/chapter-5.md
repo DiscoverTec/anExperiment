@@ -71,7 +71,7 @@ The battle is amazing, the team learns they are difficult to hit, but keep the b
 
 The heros decide to sleep, thinking Lobo will arrive with billy 
 
-Suddenly, in the distance a soft explosion is heard in the distance 
+Suddenly, in the distance a soft explosion is heard
 
 Lobo is summoned back to Lavinia, only to report the goblins may have exploded the dynamite hidden in Billy's pouch
 
