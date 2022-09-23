@@ -14,6 +14,6 @@ Class: Armorer Artificer
 flowchart LR;
     val{valystrix} --> |Ally| portia(Portia d'Syvis);
     portia --> |Quillmistress| bookery((Sharn Bookery));
-    val --> |Homogulous| bixi(Bixi);
+    val --> |Homunculus| bixi(Bixi);
     click val "/characters/valystrix";
 ```
