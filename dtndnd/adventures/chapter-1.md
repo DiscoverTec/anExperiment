@@ -1,3 +1,3 @@
 # Chapter 1
 
-So it begins. :heart: 
+So it begins. :heart: !
