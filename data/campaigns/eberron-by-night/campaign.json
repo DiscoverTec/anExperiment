@@ -156,6 +156,12 @@
     "url": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/characters/credo-cidis.md"
   },
   {
+    "slug": "elin",
+    "type": "characters",
+    "name": "Elin",
+    "url": "https://raw.githubusercontent.com/DiscoverTec/anExperiment/main/eberron-by-night/characters/elin.md"
+  },
+  {
     "type": "npc",
     "slug": "billy-the-donkey",
     "name": "Billy the Donkey",
