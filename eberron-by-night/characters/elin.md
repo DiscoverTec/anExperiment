@@ -1,5 +1,5 @@
 # Elin
 
-- half elf
+- half elf!
 
 ## Background
